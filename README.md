@@ -1,4 +1,4 @@
-#TodoList app with custom state manager
+# TodoList app with custom state manager
 
 Этот проект представляет собой простое приложение Todo List, построенное с помощью React и TypeScript. Он позволяет добавлять, переключать и удалять задачи из списка. Управление состоянием осуществляется с помощью пользовательского класса State Manager.
 
